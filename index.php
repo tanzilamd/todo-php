@@ -41,11 +41,11 @@
 
                 <div class="card mt-5">
                     <div class="card-body">
-                        <!-- <ul class="list-group d-flex flex-column-reverse flex-wrap">
+                        <ul class="list-group d-flex flex-column-reverse flex-wrap">
                             <?php foreach($_SESSION['todo_list'] as $key => $item) { ?>
                             <li class="list-group-item d-flex justify-content-between mt-1"><?php echo $item; ?></li>
                             <?php } ?>
-                        </ul> -->
+                        </ul>
                     </div>
                 </div>
             </div>
